@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\StringActions\bin\Debug\StringActions.dll.config
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\StringActions\bin\Debug\StringActions.dll
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\StringActions\bin\Debug\StringActions.pdb
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\StringActions\obj\Debug\StringActions.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\StringActions\obj\Debug\StringActions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\StringActions\obj\Debug\StringActions.dll
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\StringActions\obj\Debug\StringActions.pdb

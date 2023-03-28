@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\obj\Debug\Ex01_04.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\obj\Debug\Ex01_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\obj\Debug\Ex01_04.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\bin\Debug\Ex01_04.exe.config
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\bin\Debug\Ex01_04.exe
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\bin\Debug\Ex01_04.pdb
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\obj\Debug\Ex01_04.csproj.CopyComplete
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\obj\Debug\Ex01_04.exe
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\obj\Debug\Ex01_04.pdb
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\bin\Debug\StringActions.dll
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\bin\Debug\StringActions.pdb
+C:\Users\User\source\repos\B23 Ex01 Roy 208610402 Noy 211782289\Ex01_04\bin\Debug\StringActions.dll.config
